@@ -1,0 +1,8 @@
+D:\AspDotNet\Hoteldeals\Hoteldeals\bin\Hoteldeals.dll.config
+D:\AspDotNet\Hoteldeals\Hoteldeals\bin\Hoteldeals.dll
+D:\AspDotNet\Hoteldeals\Hoteldeals\bin\Hoteldeals.pdb
+D:\AspDotNet\Hoteldeals\Hoteldeals\obj\Debug\Hoteldeals.dll
+D:\AspDotNet\Hoteldeals\Hoteldeals\obj\Debug\Hoteldeals.pdb
+D:\AspDotNet\Hoteldeals\Hoteldeals\bin\Json.dll
+D:\AspDotNet\Hoteldeals\Hoteldeals\bin\Json.pdb
+D:\AspDotNet\Hoteldeals\Hoteldeals\obj\Debug\Hoteldeals.csprojResolveAssemblyReference.cache
